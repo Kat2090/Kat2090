@@ -1,0 +1,4 @@
+- 👋 **Hello, I’m @Kat2090**
+- 💕 I’m interested in __JavaScript, Lua and LuaU.__
+- 🌙 I’m currently learning __***LuaU***__
+- 📫 Discord: __Katyusha望み#2090__
